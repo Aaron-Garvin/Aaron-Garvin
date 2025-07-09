@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Garvin</h1>
-<h3 align="center">🏫 First-year college student |  Curious to know 🤔 how things work under the hood!!</h3>
+<h3 align="center">🏫 Second-year college student |  Curious to know 🤔 how things work under the hood!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaron-garvin&label=Profile%20views&color=0e75b6&style=flat" alt="aaron-garvin" /> </p>
 
