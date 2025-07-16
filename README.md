@@ -62,6 +62,13 @@
 
 ---
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaron-garvin&theme=dracula&area=true&hide_border=true" alt="Aaron's GitHub Contribution Graph" />
+</p>
+
+---
+
 ### 🐍 GitHub Snake Animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaron-Garvin/Aaron-Garvin/output/github-snake-dark.svg" />
