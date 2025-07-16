@@ -1,11 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Hi+I'm+Aaron+Garvin+🚀;Student+%7C+Builder+%7C+Learner" />
-</h1>
-
-<h3 align="center">🏫 Second-year college student | 🔍 Curious to know how things work under the hood!</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#00f7ff">Aaron Garvin 🚀</span></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaron-garvin&label=👀 Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Student+%7C+Builder+%7C+Curious+Mind;Learning+Python+and+DSA;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
+
+<!-- 🎯 Custom People Count -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-2.6k-ff69b4?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 ---
@@ -21,14 +22,14 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.youtube.com/c/aaron%20garvin" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube"/>
+  <a href="https://www.youtube.com/@aarongarvin" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.hackerrank.com/aaron%20garvin" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="Hackerrank"/>
+  <a href="https://www.hackerrank.com/aaron%20garvin" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" />
   </a>
-  <a href="https://www.leetcode.com/aaron_garvin" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" alt="Leetcode"/>
+  <a href="https://leetcode.com/aaron_garvin/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
@@ -43,7 +44,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaron-garvin&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaron-garvin&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=3" />
 </p>
 
 ---
@@ -71,8 +72,6 @@
 ---
 
 > ⭐ *If you like my work or profile, consider following or starring my repos. Let’s connect and grow together!*
-
-
 
 
 
