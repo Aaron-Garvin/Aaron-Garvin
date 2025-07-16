@@ -3,10 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+2nd+Year;Builder+%7C+Curious+Learner+%7C+Problem+Solver;Diving+into+Python%2C+C%2C+HTML%2C+CSS%2C+JavaScript%2C+DSA" alt="Typing SVG" />
 </p>
 
-
 <!-- 🎯 Custom People Count -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-2.6k-ff69b4?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-2.6k-8e44ad?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 ---
@@ -14,7 +13,7 @@
 ### 🚀 About Me
 - 🎓 I’m a **Second-year Computer Engineering student**
 - 🌱 Currently diving deep into **Python, C, HTML, CSS, JavaScript, and DSA**
-- 🛠️ Learning how things work behind the scenes 🔧
+- 🛠️ Exploring how things work behind the scenes 🔧
 - 📫 Reach me at: **garvinaaron26@gmail.com**
 - ⚡ Fun fact: *The first computer bug was a real moth!* 🐛💻
 
@@ -79,7 +78,6 @@
 ---
 
 > ⭐ *If you like my work or profile, consider following or starring my repos. Let’s connect and grow together!*
-
 
 
 
