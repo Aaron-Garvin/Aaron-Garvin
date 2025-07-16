@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00f7ff">Aaron Garvin 🚀</span></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Undergrad+%7C+2nd+Year;Builder+%7C+Curious+Learner+%7C+Problem+Solver;Diving+into+Python%2C+C%2C+HTML%2C+CSS%2C+JavaScript%2C+DSA;Dreaming+Big+%7C+Building+Better+%7C+Leveling+Up" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Undergrad+%7C+2nd+Year;Builder+%7C+Curious+Learner+%7C+Problem+Solver;Diving+into+Python%2C+C%2C+HTML%2C+CSS%2C+JavaScript%2C+DSA" alt="Typing SVG" />
 </p>
 
 <!-- 🎯 Custom People Count -->
