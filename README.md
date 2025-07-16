@@ -1,3 +1,84 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Hi+I'm+Aaron+Garvin+🚀;Student+%7C+Builder+%7C+Learner" />
+</h1>
+
+<h3 align="center">🏫 Second-year college student | 🔍 Curious to know how things work under the hood!</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaron-garvin&label=👀 Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🎓 I’m a **Second-year Computer Engineering student**
+- 🌱 Currently diving deep into **Python, C, HTML, CSS, JavaScript, and DSA**
+- 🛠️ Learning how things work behind the scenes 🔧
+- 📫 Reach me at: **garvinaaron26@gmail.com**
+- ⚡ Fun fact: *The first computer bug was a real moth!* 🐛💻
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.youtube.com/c/aaron%20garvin" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube"/>
+  </a>
+  <a href="https://www.hackerrank.com/aaron%20garvin" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="Hackerrank"/>
+  </a>
+  <a href="https://www.leetcode.com/aaron_garvin" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" alt="Leetcode"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,vscode,github,git" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaron-garvin&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaron-garvin&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-garvin&layout=compact&theme=radical" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-garvin&theme=radical" width="95%"/>
+</div>
+
+---
+
+### 🐍 GitHub Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaron-Garvin/Aaron-Garvin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaron-Garvin/Aaron-Garvin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aaron-Garvin/Aaron-Garvin/output/github-snake.svg" />
+</picture>
+
+---
+
+> ⭐ *If you like my work or profile, consider following or starring my repos. Let’s connect and grow together!*
+
+
+
+
+
+
+
+<!--
 <h1 align="center">Hi 👋, I'm Aaron Garvin</h1>
 <h3 align="center">🏫 Second-year college student |  Curious to know 🤔 how things work under the hood!!</h3>
 
@@ -35,8 +116,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaron-Garvin/Aaron-Garvin/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Aaron-Garvin/Aaron-Garvin/output/github-snake.svg" />
 </picture>
-
-
+-->
 
 
 
