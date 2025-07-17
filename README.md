@@ -41,10 +41,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaron-garvin&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=3" />
-</p>
+## 🏆 GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aaron-Garvin&theme=monokai&margin-w=15&margin-h=15&column=3&no-frame=true&title=Followers,Repositories,Stars,PullRequest,Issues,Commit,Comments,Contributed)](https://github.com/Aaron-Garvin)
 
 ---
 
