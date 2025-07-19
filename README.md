@@ -1,23 +1,7 @@
-<!-- 👋 Name Banner -->
-<h1 align="center">Hi 👋, I'm <span style="color:#8e44ad">Aaron Garvin 🚀</span></h1>
-
-<!-- 💬 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+2nd+Year;Builder+%7C+Curious+Learner+%7C+Problem+Solver;Diving+into+Python%2C+C%2C+HTML%2C+CSS%2C+JavaScript%2C+DSA" alt="Typing SVG" />
-</p>
-
-<!-- 👨‍💻 Developer GIF -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/15844907/media/79fe4df4103a83b229b79a4b2c8c2cbb.gif" width="300" />
-</p>
-
-<!-- 🌊 Footer Line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=100&section=footer" />
-</p>
 
 
-<!--
+
+
 
 <h1 align="center">Hi 👋, I'm <span 
 style="color:#8e44ad">Aaron Garvin 🚀</span></h1>
@@ -25,7 +9,6 @@ style="color:#8e44ad">Aaron Garvin 🚀</span></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+2nd+Year;Builder+%7C+Curious+Learner+%7C+Problem+Solver;Diving+into+Python%2C+C%2C+HTML%2C+CSS%2C+JavaScript%2C+DSA" alt="Typing SVG" />
 </p>
 
--->
 
 <!-- 🎯 Custom People Count -->
 <p align="center">
