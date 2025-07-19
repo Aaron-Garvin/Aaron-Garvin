@@ -1,6 +1,22 @@
+
+<h1 align="center">Hi 👋, I'm <span style="color:#8e44ad">Aaron Garvin 🚀</span></h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi%20👋%2C%20I'm%20Aaron%20Garvin%20🚀-8E44AD?style=for-the-badge&logo=github&logoColor=white&labelColor=8E44AD&color=8E44AD" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+2nd+Year;Builder+%7C+Curious+Learner+%7C+Problem+Solver;Diving+into+Python%2C+C%2C+HTML%2C+CSS%2C+JavaScript%2C+DSA" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aaron-Garvin/Aaron-Garvin/main/assets/developer.gif" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=footer"/>
+</p>
+
 
 <!--
 
