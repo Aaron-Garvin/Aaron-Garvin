@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Aaron+Garvin+🚀" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20👋%2C%20I'm%20Aaron%20Garvin%20🚀-8E44AD?style=for-the-badge&logo=github&logoColor=white&labelColor=8E44AD&color=8E44AD" />
+</p>
 
 <!--
 
