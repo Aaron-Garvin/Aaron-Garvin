@@ -53,6 +53,11 @@ style="color:#8e44ad">Aaron Garvin 🚀</span></h1>
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
