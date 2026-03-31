@@ -5,17 +5,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-2.6k-8e44ad?style=for-the-badge&logo=github" alt="Profile Views" />
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** 2nd Year Computer Engineering student at SVPCET.
+- 🎓 **Education:** 2nd Year Computer Engineering student at **SVPCET**.
 - 💼 **Experience:** Completed a **Full-Stack Internship** at Cognifyz Technology.
 - 🧠 **Focus:** Deeply interested in **Database Systems**, **AI/ML**, and Web Architecture.
 - 🌱 **Learning:** Mastering **Java**, **React**, and **Advanced DSA**.
 - 📫 **Reach me:** [garvinaaron26@gmail.com](mailto:garvinaaron26@gmail.com)
+- ⚡ **Fun Fact:** The first computer bug was a real moth! 🐛
 
 ---
 
@@ -41,7 +44,7 @@
 
 ---
 
-### 📊 My Coding Journey
+### 📊 My Coding Journey & Stats
 <p align="center">
   <a href="https://leetcode.com/aaron_garvin/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
@@ -52,13 +55,20 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaron-garvin&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-garvin&layout=compact&theme=radical&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaron-Garvin&show_icons=true&theme=radical&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Garvin&layout=compact&theme=radical&border_radius=10" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-garvin&theme=radical&border_radius=10" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Garvin&theme=radical&border_radius=10" width="95%" alt="GitHub Streak" />
 </div>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaron-garvin&theme=dracula&area=true&hide_border=true&border_radius=10" alt="Aaron's GitHub Contribution Graph" />
+</p>
 
 ---
 
@@ -71,13 +81,12 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Weekly Inspiration
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 > ⭐ *Liked my work? Consider following me for more projects!*
-
 
 
 <!--
