@@ -13,12 +13,24 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** 2nd Year Computer Engineering student at **SVPCET**.
-- 💼 **Experience:** Completed a **Full-Stack Internship** at Cognifyz Technology.
-- 🧠 **Focus:** Deeply interested in **Database Systems**, **AI/ML**, and Web Architecture.
-- 🌱 **Learning:** Mastering **Java**, **React**, and **Advanced DSA**.
-- 📫 **Reach me:** [garvinaaron26@gmail.com](mailto:garvinaaron26@gmail.com)
-- ⚡ **Fun Fact:** The first computer bug was a real moth! 🐛
+
+<table>
+  <tr>
+    <td width="60%" vertical-align="top">
+      <ul>
+        <li>🎓 <b>Education:</b> 2nd Year Computer Engineering student at <b>SVPCET</b></li>
+        <li>💼 <b>Experience:</b> Completed a <b>Full-Stack Internship</b> at Cognifyz Technology</li>
+        <li>🧠 <b>Focus:</b> Deeply interested in <b>Database Systems</b>, <b>AI/ML</b>, and Web Architecture</li>
+        <li>🌱 <b>Learning:</b> Mastering <b>Java</b>, <b>React</b>, and <b>Advanced DSA</b></li>
+        <li>📫 <b>Reach me:</b> <a href="mailto:garvinaaron26@gmail.com">garvinaaron26@gmail.com</a></li>
+        <li>⚡ <b>Fun Fact:</b> The first computer bug was a real moth! 🐛</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
