@@ -86,7 +86,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-> ⭐ *Liked my work? Consider following me for more projects!*
+### ⭐ *Liked my profile? Don't forget to follow and check out my repositories!*
 
 
 <!--
