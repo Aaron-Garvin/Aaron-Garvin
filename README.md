@@ -56,6 +56,54 @@
 
 ---
 
+### 🏅 Certifications & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Internship-Full--Stack%20Development-8e44ad?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Internship" />
+  <img src="https://img.shields.io/badge/HackerRank-Python%20%26%20C%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/NPTEL-Dcom%20|%20DBMS%20|%20Maths%20|%20SoftSkills%20|%20OOPS%20|%20DCAI-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="NPTEL" />
+</p>
+
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueW80ZzR3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lUjMcprWEMC4p2/giphy.gif" width="180" alt="Trophy" />
+    </td>
+    <td width="70%">
+      <table width="100%">
+        <tr>
+          <td align="center" width="50%">
+            <b>Full-Stack Web Development</b><br>
+            <i>Cognifyz Technology (Dec 2025)</i><br>
+            <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+          </td>
+          <td align="center" width="50%">
+            <b>NPTEL Academic Courses</b><br>
+            <i>Dcom, DBMS, Maths, SoftSkills, OOPS, DCAI</i><br>
+            <img src="https://img.shields.io/badge/Status-Ongoing%20%2F%20Completed-blue?style=flat-square" />
+            <p align="center" style="font-size: 10px;">Matching SVPCET Academic Curriculum</p>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <b>5-Day AI Agent Intensive</b><br>
+            <i>Tri-Engine Automated Bot for Academics</i><br>
+            <img src="https://img.shields.io/badge/Project-Capstone-FF6600?style=flat-square" />
+          </td>
+          <td align="center">
+            <b>HackerRank Coding Challenges</b><br>
+            <i>Python & C Competition</i><br>
+            <img src="https://img.shields.io/badge/Type-College%20Challenges-yellow?style=flat-square" />
+            <p align="center" style="font-size: 10px;">Competed in college-level coding events</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 My Coding Journey & Stats
 <p align="center">
   <a href="https://leetcode.com/aaron_garvin/" target="_blank">
