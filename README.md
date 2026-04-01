@@ -67,7 +67,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueW80ZzR3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lUjMcprWEMC4p2/giphy.gif" width="180" alt="Trophy" />
+      <img src="https://github.com/Aaron-Garvin/Aaron-Garvin/blob/main/.github/workflows/achievement.gif?raw=true" width="180" alt="Trophy" />
     </td>
     <td width="70%">
       <table width="100%">
