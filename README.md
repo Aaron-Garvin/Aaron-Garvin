@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#8e44ad">Aaron Garvin</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+2nd+Year;Full-Stack+Developer+Intern;Java+%7C+Python+%7C+React+%7C+C++;Problem+Solver+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+3rd+Year;Full-Stack+Developer+Intern;Java+%7C+Python+%7C+React+%7C+C++;Problem+Solver+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
