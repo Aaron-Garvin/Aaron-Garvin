@@ -18,7 +18,7 @@
   <tr>
     <td width="60%" vertical-align="top">
       <ul>
-        <li>🎓 <b>Education:</b> 2nd Year Computer Engineering student at <b>SVPCET</b></li>
+        <li>🎓 <b>Education:</b> 3rd Year Computer Engineering student at <b>SVPCET</b></li>
         <li>💼 <b>Experience:</b> Completed a <b>Full-Stack Internship</b> at Cognifyz Technology</li>
         <li>🧠 <b>Focus:</b> Deeply interested in <b>Database Systems</b>, <b>AI/ML</b>, and Web Architecture</li>
         <li>🌱 <b>Learning:</b> Mastering <b>Java</b>, <b>React</b>, and <b>Advanced DSA</b></li>
